@@ -1,0 +1,32 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <table border="collapse">
+            <caption>New Empoloyees Records</caption>
+            <thead>
+            <tr>
+                <th>
+                    <td>Names</td>
+                    <td>role</td>
+                    <td>working experience</td>
+                </th>
+            </tr>
+        </table>
+            <tr>
+                <td>John</td>
+                <td>Software Engineer Data Analysis</td>
+                <td rowspane="2">5 Years</td>
+            </tr>
+            <tr>
+                <td>Ale</td>
+                <td>Senior Web Dev</td>
+            </tr>
+            <tr>
+                <td>Jack</td>
+                <td>Junior Web Dev Blogger</td>
+                <td>6 months</td>
+            </tr>
+        </table>
+    </body>
+</html>
