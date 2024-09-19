@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.headsection{
+    height:100vh;
+    width:100vw;
+}
+.heading{
+align-items: center;
+background-image:linear-gradient() ;
+
+}
+.img{
+    height: 100%;
+    width:100%;
+    background-image: url("https://static01.nyt.com/images/2021/03/30/multimedia/28xp-shoes-09/28xp-shoes-09-superJumbo.jpg");
+    background-position: center;
+    background-size:cover;
+}
+.navbar{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+}
+.navbar_links{
+    display: flex;
+    align-items: center;
+    vertical-align: auto;
+}
+.navbar_links li{
+    justify-content: center;
+    list-style: none;
+    margin: 30px;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.mainpage{
+    background-color: ;
+    height: 120px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    margin-left: 70px;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+}
+.mainpage h1{
+    color: white;
+    font-size: 30px;
+}
+.mainpage p{
+    color: white;
+    font-size: 20px;
+}
+.Trending{
+    background-color: rgb(229,229,229);
+    padding: 1% 5%;
+    height:200px;
+    width:100%;
+
+}
+.Trending h2{
+
+}
+.trending_main{
+    display:flex;
+}
+.trending_padd{
+    background-color: rgb(160,160,160);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-items: center;
+}
+.trending_links{
+
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.trending_links p{
+    background-color: rgb(96,96,96);
+    color: white;
+    padding-top:5px;
+}
+.secondpage{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/HD-Air-Jordan-Shoes-Image.jpg
+    ");
+    
+}
